@@ -117,8 +117,8 @@ sudo rm -rf /usr/local/aws-cli
 # **Configure AWS Credentials in command line**
 ```
 $ aws configure
-AWS Access Key ID [None]: 
-AWS Secret Access Key [None]: 
+AWS Access Key ID [None]: <YOUR-AWS-ACCESS-KEY>
+AWS Secret Access Key [None]: <YOUR-AWS-SECRET-ACCESS-KEY>
 Default region name [None]: us-west-2
 Default output format [None]: json
 
