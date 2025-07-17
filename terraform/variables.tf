@@ -60,7 +60,7 @@ variable "key_name" {
 }
 
 variable "instance_name" {
-  description = "EC2 Instance name fr the jumphost server"
+  description = "EC2 Instance name for the jumphost server"
   type        = string
   default     = "Jumphost-server"
 }
