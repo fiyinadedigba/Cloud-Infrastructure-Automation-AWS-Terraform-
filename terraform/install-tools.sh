@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# For Ubuntu 22.04
 set -e # Exit script immediately on first error.
 
 # Log all output to file
